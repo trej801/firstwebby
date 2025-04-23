@@ -1,0 +1,98 @@
+/* Custom Scratch Styles */
+.header{
+    background-color: rgb(196, 84, 4);
+    color: antiquewhite;
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    height: 150px;
+    border: solid black 5px;
+    margin: 2px;
+   }
+   
+   
+   .body{
+    top: 167px;
+    right: 7px;
+    left: 7px;
+    bottom: 31px;
+    background-image: url(../assets/img/exercise\ background\ pic\ 3.jpg);
+    }
+   
+   
+   .footer{
+    background-color: rgb(196, 84, 4);
+    color: antiquewhite;
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    height: 60px;
+    margin: 2px;
+   }
+   
+   
+   body {
+      font-family: fantasy;
+      color: #000000;
+      font-size: xx-large;
+      font-weight: 900;
+    }
+     h1 {
+      color: #000000;
+    }
+   
+   
+    h2{
+      color: #000000;
+      text-align: center;
+      border: #3e3737;
+      border-style: solid;
+      border-width: 5px;
+    }
+   
+   
+    /* the h1 and h2 tags were grouped together but I seperated them so that
+    I could break down the styling even more. */
+    ul, ol {
+      margin-left: 2em;
+    }
+     img {
+      max-width: 25%;
+      height: auto;
+      border: 2px solid #3e3737;
+      border-radius: 4px;
+    }
+   
+   
+    .headeralign{
+      text-align: center;
+    }
+   
+   
+    a{
+      color: antiquewhite;
+      text-decoration: none;
+    }
+   
+   
+    a:hover{
+      text-decoration:underline;
+      color: chartreuse;
+    }
+   
+   
+    .headerborder{
+      border-width: 8px;
+      border-color: #3e3737;
+      border-style: solid;
+    }
+   
+   
+    .headerpadding{
+      padding: 5px;
+    }
+   
+   
+    .headermargin{
+      margin: 8px;
+    }   
